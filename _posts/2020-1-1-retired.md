@@ -2,7 +2,6 @@
 layout: post
 title:  Retired
 categories: [TexSyn,Code]
-excerpt: I am Craig Reynolds and I am now officially retired.
 ---
 
 I am [Craig Reynolds](http://www.red3d.com/cwr) and I am now officially **retired**.
